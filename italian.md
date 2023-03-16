@@ -14,10 +14,7 @@ Although much of this Italian-American dialect in New York City has been lost si
 
 |  \-   | Dialect (Calabrese-Americano) | Standard Italian (gloss/guess) | English (approx. translation) |
 | ----- | ----------------------------- | ------------------------------ | ----------------------------- |
-| Text (Dialect Approximated) | Mienzu’na strada ‘nfossa
-Ce simu ditte addieu
-Solo pé’n’ata via
-Ti vegghe patí
+| Text (Dialect Approximated) | Mienzu’na strada ‘nfossa \nCe simu ditte addieu \nSolo pé’n’ata via \nTi vegghe patí
 
 
 

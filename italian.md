@@ -12,31 +12,30 @@ However, Italian immigrants in NYC, like my grandfathers, still came in contact 
 
 Although much of this Italian-American dialect in New York City has been lost since the large era of migration between the mid- 19th and 20th centuries, it can still be found in Italian American music. Lou Monte, for example, was an Italian-American singer and songwriter born in Manhattan in 1917. Both of his parents had immigrated to New York from Calabria, and so he was raised speaking an (likely) Americanized version of a Calabrese dialect. Many of his songs contain licks and stanzas of this dialect; others are completely sung in the dialect. His rendition of the classical song, Strada ‘N Fosa, is a great reflection of how distinct this Calabrese dialect is from the Italian language. Here I depict the first stanzas of Monte’s rendition of “Strada ‘N Fosa” in dialect and the glossed (standard) Italian, with respective IPA transcriptions:
 
-|  \-   | Dialect (Calabrese-Americano) | Standard Italian (gloss/guess) | English (approx. translation) |
+|  \-   | Dialect (Calabrese-Americano) | Standard Italian (gloss/guess) | English (approx. gloss) |
 | ----- | ----------------------------- | ------------------------------ | ----------------------------- |
-| Text (Dialect Approximated) | Mienzu’na strada ‘nfossa \nCe simu ditte addieu \nSolo pé’n’ata via \nTi vegghe patí
+| Text (Dialect Approximated) | Mienzu’na strada ‘nfossa\
+Ce simu ditte addieu\
+Solo pé’n’ata via\
+Ti vegghe patí\
+\
+Mienzu’na strada ‘nfossa\
+G(C)hianghianu m’ha vasta\
+Eio ca mme ne moro\
+Te lasso partì | Mezz’una strada bagnata\
+Ci siamo detti addio\
+Solo per un’altro via\
+Ti vedo parti\
+\
+Mezz’una strada bagnata\
+Piangendo mi hai baciato\
+E io, che m’innamoro\
+Ti lascio parti | In the middle of the wet street\
+We said goodbye\
+Alone for a different road(way)\
+I let you you leave\
 
-
-
-Mienzu’na strada ‘nfossa
-G(C)hianghianu m’ha vasta
-Eio ca mme ne moro
-Te lasso partì | Mezz’una strada bagnata
-Ci siamo detti addio 
-Solo per un’altro via
-Ti vedo parti
-
-
-
-Mezz’una strada bagnata
-Piangendo mi hai baciato
-E io, che m’innamoro
-Ti lascio parti | In the middle of the wet street/
-We said goodbye/
-Alone for a different road(way)/
-I let you you leave
-
-In the middle of the wet street/
-Crying you kissed me
-And I, who fell in love
-I let you leave |
+In the middle of the wet street\
+Crying you kissed me\
+And I, who fell in love\
+I let you leave\
